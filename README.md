@@ -8,7 +8,7 @@ Claim something happened online  a price, a statement, a page existing  and Alib
 
 ## The Problem
 
-The internet changes. Prices move. Tweets get deleted. Websites edit their claims. When you need to prove what was online at a specific moment — for a legal dispute, a trade gone wrong, or just a bet with a friend — screenshots don't cut it. They're easy to fake and impossible to verify.
+The internet changes. Prices move. Tweets get deleted. Websites edit their claims. When you need to prove what was online at a specific moment  for a legal dispute, a trade gone wrong, or just a bet with a friend  screenshots don't cut it. They're easy to fake and impossible to verify.
 
 AlibiChain solves this by creating decentralized, AI-verified, on-chain proof of web content.
 
