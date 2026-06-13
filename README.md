@@ -193,6 +193,10 @@ genlayer call --contract 0x5e28F39... get_proof "1"
 
 ---
 
+## 📜 License
+
+[MIT](./LICENSE)
+
 #
 
 
