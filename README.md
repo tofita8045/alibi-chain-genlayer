@@ -2,7 +2,7 @@
 
 **Tamper-proof evidence, verified by AI, stored forever.**
 
-Claim something happened online — a price, a statement, a page existing — and AlibiChain's AI validators will fetch the URL, check your claim against the actual content, and stamp the result on-chain. Immutable proof that holds up.
+Claim something happened online  a price, a statement, a page existing  and AlibiChain's AI validators will fetch the URL, check your claim against the actual content, and stamp the result on-chain. Immutable proof that holds up.
 
 ---
 
