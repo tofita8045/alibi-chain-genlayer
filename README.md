@@ -1,4 +1,4 @@
-# 🔏 AlibiChain
+#  AlibiChain
 
 **Tamper-proof evidence, verified by AI, stored forever.**
 
